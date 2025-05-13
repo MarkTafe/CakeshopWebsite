@@ -1,2 +1,2 @@
 # CakeshopWebsite
-Ive created this Website for my IT assigment
+I've created this Website for my IT assigment.
